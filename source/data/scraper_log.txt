@@ -1,0 +1,31 @@
+Fetching monster list from https://monsterhunterwiki.org/wiki/Monster_List#Large_Monster
+Response status code: 200
+Error getting monster list: [Errno 2] No such file or directory: './data/html_stocks\\monster_list_page.html'
+
+--- Getting info for: Rathalos ---
+URL: https://monsterhunterwiki.org/wiki/Rathalos
+Response status code: 200
+Error getting info for Rathalos: [Errno 2] No such file or directory: './data/html_stocks\\Rathalos_page.html'
+
+--- Getting info for: Rathian ---
+URL: https://monsterhunterwiki.org/wiki/Rathian
+Response status code: 200
+Error getting info for Rathian: [Errno 2] No such file or directory: './data/html_stocks\\Rathian_page.html'
+
+--- Getting info for: Zinogre ---
+URL: https://monsterhunterwiki.org/wiki/Zinogre
+Response status code: 200
+Error getting info for Zinogre: [Errno 2] No such file or directory: './data/html_stocks\\Zinogre_page.html'
+
+--- Getting info for: Nargacuga ---
+URL: https://monsterhunterwiki.org/wiki/Nargacuga
+Response status code: 200
+Error getting info for Nargacuga: [Errno 2] No such file or directory: './data/html_stocks\\Nargacuga_page.html'
+
+--- Getting info for: Tigrex ---
+URL: https://monsterhunterwiki.org/wiki/Tigrex
+Response status code: 200
+Error getting info for Tigrex: [Errno 2] No such file or directory: './data/html_stocks\\Tigrex_page.html'
+Completed scraping 5 monsters.
+Monster information saved to monsters_info.json
+Monster images saved to monster_images/ directory
